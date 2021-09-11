@@ -1,0 +1,36 @@
+PRINT
+INSERT c number
+RPRINT
+LOOKUP c
+LOOKUP c
+PRINT
+INSERT rE5KP string
+INSERT zN string
+RPRINT
+INSERT ceWPA string
+RPRINT
+RPRINT
+INSERT dI string
+PRINT
+INSERT pLLRcw string
+BEGIN
+RPRINT
+INSERT h string
+INSERT azGI_v number
+INSERT lNp5 number
+INSERT zjxek string
+INSERT nRLHN number
+LOOKUP lNp5
+INSERT do5VB number
+INSERT leQnV5 string
+INSERT yyhb number
+RPRINT
+INSERT c string
+RPRINT
+ASSIGN u_zW 'RLK '
+INSERT u number
+PRINT
+INSERT mVA number
+INSERT mS6IE string
+PRINT
+hA sll2
